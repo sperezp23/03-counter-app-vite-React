@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+    color:aquamarine;
+}
+
+button{
+    width: 3cm;
+    height: 1cm;
+    border-radius: 20px;
+}
+
+.contador{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
